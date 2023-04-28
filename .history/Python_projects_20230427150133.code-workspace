@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"mysqlOptions": {
+					"authProtocol": "default"
+				},
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 3306,
+				"driver": "MySQL",
+				"name": "website",
+				"database": "web",
+				"username": "silas"
+			}
+		],
+		"files.autoSave": "afterDelay",
+		"files.associations": {
+			"*.cpp": "c/c++",
+			"*.java": "java",
+			"*.html": "html"
+		}
+	}
+}
