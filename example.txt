@@ -1,0 +1,7 @@
+This example shows how to read and write text using r+ mode, and it is nice to code in python
+Prof angera says to be successful in life you have to be consistent,committed and dedicated to what you are doing
+
+Additional information
+this methods stores files in the memory permanently
+Email address: angerasilas@gmail.com
+Telephone: 254110156241
