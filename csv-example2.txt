@@ -1,0 +1,3 @@
+Country,Capital-city,zip_Code
+Kenya,Nairobi,254
+Uganda,Kampala,255
